@@ -8,7 +8,9 @@ function App() {
 
   return (
     <>
-      <h1>I Nahid Hasan Sagar welcome you to my Website!</h1>
+      <h1>I, Nahid Hasan Sagar</h1>
+      <h2>Welcome you to my Website</h2>
+      <button type="button">Learn More</button>
     </>
   )
 }
